@@ -1,6 +1,3 @@
-/// jacob Steiner
-// 3-3-15
-// qtlab 3
 #include "mainwindow.h"
 #include "ui_mainwindow.h"
 #include <vector>
